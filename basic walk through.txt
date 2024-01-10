@@ -1,0 +1,11 @@
+step 1 
+https://forensicctf.vercel.app/-embeded img (https://ibb.co/r4DwrJ9 -use exif tool :description name)
+step-2
+(https://www.dcode.fr/base-64-encoding)base64 encoding
+eGRzeXtFU0NXIFNGIEdYWFdKIExaU0wgWlcgVVNGTCBKV1hNS1d9
+step3
+rot9(https://www.dcode.fr/rot-cipher)
+xdsy{ESCW SF GXXWJ LZSL ZW USFL JWXMKW}
+step 4
+caeser cipher key:9 (https://www.dcode.fr/caesar-cipher) key:9
+oujp{VJTN JW XOONA CQJC QN LJWC ANODBN} = flag{MAKE AN OFFER THAT HE CANT REFUSE}
